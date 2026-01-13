@@ -50,8 +50,4 @@ Cada proyecto incluye su propia descripción y, cuando aplica, documentación t�
 
 ---
 
-## 📌 Nota
-
-Este repositorio puede actualizarse con el tiempo a medida que se agregan nuevos certificados y proyectos.
-
 Gracias por visitar.
