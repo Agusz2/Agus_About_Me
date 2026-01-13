@@ -43,10 +43,7 @@ Cada proyecto incluye su propia descripción y, cuando aplica, documentación t�
 
 ## 🎯 Objetivo de este repositorio
 
-- Mostrar mi crecimiento profesional
-- Centralizar evidencias de aprendizaje
-- Presentar proyectos de forma ordenada
-- Servir como portafolio para oportunidades académicas y laborales
+Mostrar mi crecimiento profesional centralizando evidencias de aprendizaje y presentar proyectos de forma ordenada para que sirvan como portafolio para oportunidades académicas y laborales.
 
 ---
 
